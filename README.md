@@ -1,1 +1,1 @@
-# resources
+# Computer Science Resources
