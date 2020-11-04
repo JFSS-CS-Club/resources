@@ -1,4 +1,8 @@
-# Miscellaneous Resources
+---
+title: 'Miscellaneous Resources'
+metaTitle: 'Miscellaneous Resources'
+metaDescription: 'Other useful resources for programming'
+---
 
 Anything which doesn't really belong in any other category
 
