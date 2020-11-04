@@ -3,7 +3,7 @@ const config = {
     pathPrefix: '/resources',
     siteUrl: 'https://jfsscsclub.github.io',
     gaTrackingId: null,
-    trailingSlash: true,
+    trailingSlash: false,
   },
   header: {
     logo: 'https://avatars2.githubusercontent.com/u/59027791',
@@ -25,9 +25,9 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/introduction/',
-      '/webdev/',
-      '/misc/'
+      '/introduction',
+      '/webdev',
+      '/misc'
     ],
     links: [],
     frontline: false,
