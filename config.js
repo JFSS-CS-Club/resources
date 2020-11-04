@@ -24,7 +24,11 @@ const config = {
     },
   },
   sidebar: {
-    forcedNavOrder: [],
+    forcedNavOrder: [
+      '/introduction',
+      '/webdev',
+      '/misc'
+    ],
     links: [],
     frontline: false,
     ignoreIndex: true,
