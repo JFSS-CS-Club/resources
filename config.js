@@ -1,9 +1,9 @@
 const config = {
   gatsby: {
     pathPrefix: '/resources',
-    siteUrl: 'https://jfsscsclub.github.io/resources',
+    siteUrl: 'https://jfsscsclub.github.io',
     gaTrackingId: null,
-    trailingSlash: false,
+    trailingSlash: true,
   },
   header: {
     logo: 'https://avatars2.githubusercontent.com/u/59027791',
@@ -25,9 +25,9 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/introduction',
-      '/webdev',
-      '/misc'
+      '/introduction/',
+      '/webdev/',
+      '/misc/'
     ],
     links: [],
     frontline: false,
