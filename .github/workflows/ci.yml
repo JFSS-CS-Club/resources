@@ -46,7 +46,7 @@ jobs:
           npm install -g gatsby-cli
 
       - name: Build Site
-        run: npm build
+        run: npm run build
 
       - name: Upload `public` Folder
         uses: actions/upload-artifact@v2
