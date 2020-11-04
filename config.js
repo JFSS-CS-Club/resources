@@ -1,7 +1,7 @@
 const config = {
   gatsby: {
     pathPrefix: '/',
-    siteUrl: 'https://jfsscsclub.github.io/resources',
+    siteUrl: 'https://jfsscsclub.github.io/resources/',
     gaTrackingId: null,
     trailingSlash: false,
   },
