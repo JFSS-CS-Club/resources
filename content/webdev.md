@@ -15,6 +15,14 @@ Want to build a website? You've come to the right place!
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [Hackr.io](https://hackr.io/), community-driven tutorial site
 
-### Documentation
+### References
 
 - [MDN References](https://developer.mozilla.org/en-US/docs/Web/Reference)
+- [CSS Tricks' Almanac](https://css-tricks.com/almanac/)
+
+## React
+
+### Tutorials
+
+- [React's Official Tutorial](https://reactjs.org/tutorial/tutorial.html)
+- [W3Schools' React Tutorial](https://www.w3schools.com/react/default.asp)
