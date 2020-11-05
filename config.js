@@ -6,11 +6,11 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: 'https://avatars2.githubusercontent.com/u/59027791',
+    logo: '/images/logo.png',
     logoLink: '/',
     title:
       `Resources`,
-    githubUrl: 'https://github.com/jfsscsclub/resources',
+    githubUrl: '',
     helpUrl: '',
     tweetText: '',
     social: '',
@@ -38,8 +38,8 @@ const config = {
     title: 'JFSS CS Club Resources',
     description: 'Some resources for the JFSS CS Club',
     ogImage: null,
-    docsLocation: 'https://github.com/jfsscsclub/resources',
-    favicon: 'content/icon.png',
+    docsLocation: '',
+    favicon: 'content/images/icon.png',
   },
   pwa: {
     enabled: true, // disabling this will also remove the existing service worker.
@@ -51,7 +51,7 @@ const config = {
       theme_color: '#001934',
       display: 'standalone',
       crossOrigin: 'use-credentials',
-      icon: 'content/icon.png',
+      icon: 'content/images/icon.png',
     },
   },
 };
