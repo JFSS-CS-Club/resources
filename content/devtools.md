@@ -40,3 +40,7 @@ We will be going over the installation of VSCode in this guide as it is the most
 
 - [Getting started with Visual Studio Code (YouTube)](https://www.youtube.com/watch?v=S320N3sxinE)
 - [Setting up Visual Studio Code (Text)](https://code.visualstudio.com/docs/setup/setup-overview)
+
+# Linux
+
+If you're using Linux you already know what you're doing.
