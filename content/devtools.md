@@ -18,6 +18,25 @@ We will be going over the installation of VSCode in this guide as it is the most
 
 ## Windows & MacOS
 
-![vscode1](./images/vscode1.jpg)
+![vscode1](./images/vscode1.png)
 
 **Step 1: [Download](https://code.visualstudio.com/) the recommended stable build**
+
+![vscode2](./images/vscode2.png)
+
+**Step 2: Run the VS Code setup. You could use the default options checked for you, or check off other options based on your preference.**
+
+![vscode3](./images/vscode3.png)
+
+**Step 3: Confirm and finish installing**
+
+![vscode4](./images/vscode4.png)
+
+**Step 4: Launch VS Code. This is what you should see. You may not see all 6 icons on the left, as some of them come from extensions.**
+
+![vscode5](./images/vscode5.png)
+
+**Step 5: Here are what the different tabs on the side do. Play around with them yourself and you'll quickly get the hang of VS Code. Here are some other resources to get you started:**
+
+- [Getting started with Visual Studio Code (YouTube)](https://www.youtube.com/watch?v=S320N3sxinE)
+- [Setting up Visual Studio Code (Text)](https://code.visualstudio.com/docs/setup/setup-overview)
