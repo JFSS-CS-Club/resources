@@ -25,6 +25,7 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
+      '/devtools',
       '/webdev',
       '/misc'
     ],
