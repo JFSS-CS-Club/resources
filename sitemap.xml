@@ -3,5 +3,6 @@
 <url> <loc>https://jfsscsclub.github.io/resources/devtools</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jfsscsclub.github.io/resources/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jfsscsclub.github.io/resources/misc</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://jfsscsclub.github.io/resources/projects</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://jfsscsclub.github.io/resources/webdev</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
